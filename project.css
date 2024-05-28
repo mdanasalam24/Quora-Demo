@@ -1,0 +1,43 @@
+ 
+#head{
+    width: 100px;
+    color:  rgb(147, 16, 16);
+    display: inline;
+    margin-right: 20px;
+}
+#sing{
+    height: 20px;
+    background-color:rgb(147, 16, 16);
+    color: white;
+    margin-left: 10px;
+}
+input{
+    width: 100px;
+    font-size: 10px;
+}
+h2{
+    height: 30px;
+    display: inline;
+    margin-right: 10px
+    
+}
+.link{
+    color: red;
+}
+.but{
+    color: white;
+    background-color: green;
+}
+.but2{
+    color: white;
+    background-color: blue;
+}
+div{
+
+    background-color: blanchedalmond;
+}
+span{
+    padding-left: 5px;
+}
+
+
